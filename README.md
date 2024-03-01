@@ -4,9 +4,10 @@
 Automatic Review Generation Method based on Large Language Models
 
 
-Windows平台编译
-'''
 
+
+Windows平台编译：
+
+```
 pyinstaller -Fw GUI.py -i Icon.png
-
-'''
+```
