@@ -10,17 +10,35 @@ Automatic Review Generation Method based on Large Language Models
 ![Support Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Language](https://img.shields.io/badge/Language-Python3-yellow.svg)
 
+# Key Requirements
+
+下述密钥必须由使用者自行提供。
+
+The following keys must be provided by the user themselves.
+
+ - 谷歌学术检索 Google Search API https://serpapi.com/
+ - 大语言模型（二选一或均提供） LLM API (Choose one or both)
+   - Claude2 https://claude.ai/chats
+   - 支持Open AI 格式的模型地址和密钥 URL and Key compatible with OpenAI format
+ - 爱思唯尔开发者 Elsevier Research Products APIs https://dev.elsevier.com/
+
 # OS Requirements
+
+*Windows* 支持此 GUI。 GUI 已在以下系统上进行了测试：
 
 This GUI is supported for *Windows*. The GUI has been tested on the following systems:
 
 + Windows10
 
+该软件包支持 *Linux*、*Windows* 或其他支持 python3 的平台。 该软件包已在以下系统上进行了测试：
+
 This package is supported for  *Linux*, *Windows*, or other platform supports python3. This package has been tested on the following systems:
 
-+ Windows10: Full process
++ Windows10: 全流程支持 Full process supported 
 
-+ CentOS7: Without LiteratureSearch
++ CentOS7: 不支持文献检索模块 Without LiteratureSearch
+
+
 
 # GUI Installation Guide:
 Windows平台打包图形化界面：
@@ -29,6 +47,10 @@ Pack GUI on Windows:
 ```
 pyinstaller -Fw GUI.py -i Icon.png
 ```
+
+
 # License
+
+该项目受 **Apache 2.0 许可证**保护。
 
 This project is covered under the **Apache 2.0 License**.
