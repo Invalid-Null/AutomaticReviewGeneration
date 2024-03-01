@@ -10,7 +10,7 @@ from selenium.common.exceptions import InvalidArgumentException
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.edge.options import Options
-from 。 import Global_Journal
+from . import Global_Journal
 from selenium.common.exceptions import NoSuchDriverException
 import tqdm
 import sys
