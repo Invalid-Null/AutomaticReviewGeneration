@@ -10,10 +10,11 @@ from selenium.common.exceptions import InvalidArgumentException
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.edge.options import Options
-from . import Global_Journal
+from 。 import Global_Journal
 from selenium.common.exceptions import NoSuchDriverException
 import tqdm
 import sys
+import os
 ElsevierClient = ElsClient(os.getenv('ElsClientKey', ''))
 def get_journal_and_url(doi):
     base_url = "https://api.crossref.org/works/"
