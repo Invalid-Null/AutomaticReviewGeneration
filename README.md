@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/kjappelbaum/gptchem/raw/main/docs/source/static/grid_0.png](https://github.com/Invalid-Null/AutomaticReviewGeneration/blob/main/Icon.png)" height="150">
+  <img src="https://github.com/Invalid-Null/AutomaticReviewGeneration/blob/main/Icon.png" height="150">
 </p>
 
 
