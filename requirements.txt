@@ -1,0 +1,13 @@
+anthropic==0.3.10
+bs4==0.0.1
+crossrefapi==1.6.0
+elsapy==0.5.1
+func-timeout==4.3.5
+openai==1.12.0
+pandas==1.4.3
+requests==2.31.0
+rsa==4.9
+selenium==4.15.2
+serpapi==0.1.5
+tkinter
+tqdm==4.64.0
