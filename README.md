@@ -1,4 +1,12 @@
-# Automatic Review Generation
+<p align="center">
+  <img src="[https://github.com/kjappelbaum/gptchem/raw/main/docs/source/static/grid_0.png](https://github.com/Invalid-Null/AutomaticReviewGeneration/blob/main/Icon.png)" height="150">
+</p>
+
+
+<h1 align="center">
+  Automatic Review Generation
+</h1>
+
 基于大语言模型的自动综述生成
 
 Automatic Review Generation Method based on Large Language Models
@@ -28,13 +36,13 @@ The following keys must be provided by the user themselves.
 
 This GUI is supported for *Windows*. The GUI has been tested on the following systems:
 
-+ Windows10
++ Windows10:需要Microsoft edge浏览器以供实现文献下载 Microsoft edge browser is required for literature downloading.
 
 该软件包支持 *Linux*、*Windows* 或其他支持 python3 的平台。 该软件包已在以下系统上进行了测试：
 
 This package is supported for  *Linux*, *Windows*, or other platform supports python3. This package has been tested on the following systems:
 
-+ Windows10: 全流程支持 Full process supported 
++ Windows10: 全流程支持，需要Microsoft edge浏览器以供实现文献下载 Full process supported, Microsoft edge browser is required for literature downloading. 
 
 + CentOS7: 不支持文献检索模块 Without LiteratureSearch
 
