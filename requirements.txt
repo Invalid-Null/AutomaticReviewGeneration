@@ -9,5 +9,5 @@ requests==2.31.0
 rsa==4.9
 selenium==4.15.2
 serpapi==0.1.5
-tkinter
+#tkinter
 tqdm==4.64.0
