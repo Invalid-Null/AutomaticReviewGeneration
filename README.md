@@ -11,6 +11,8 @@
 
 Automatic Review Generation Method based on Large Language Models
 
+
+[![Python package](https://github.com/Invalid-Null/AutomaticReviewGeneration/actions/workflows/python-package.yml/badge.svg)](https://github.com/Invalid-Null/AutomaticReviewGeneration/actions/workflows/python-package.yml)
 ![GitHub License](https://img.shields.io/github/license/Invalid-Null/AutomaticReviewGeneration)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Invalid-Null/AutomaticReviewGeneration/total)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Invalid-Null/AutomaticReviewGeneration)
