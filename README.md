@@ -62,6 +62,14 @@ Pack GUI on Windows:
 pyinstaller -Fw GUI.py -i Icon.png
 ```
 
+
+# Usage
+
+[图形化界面使用中文教程](doc/GUI使用教程.md)
+
+[English tutorial on using GUI](doc/GUI_tutorial.md)
+
+
 # Publication
 
 专利申请已被专利局接收；文章在投。
