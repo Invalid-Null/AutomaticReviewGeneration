@@ -117,7 +117,7 @@
 
 # 四、界面按钮介绍
 >  **打开程序后界面如下**
->  [![启动界面](doc/0.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/0.png)
+>  [![启动界面](0.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/0.png)
 > 
 >  - TOPIC：生成的综述主题
 >  - Demo：是否以少量文献进行生成测试
@@ -141,13 +141,13 @@
 >  - Run Automatic Review Generation：开始综述生成
 > 
 > **折叠配置选项后界面如下**
->  [![折叠选项界面](doc/1.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/1.png)
+>  [![折叠选项界面](1.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/1.png)
 
 # 五、文献检索选项配置
 >  1. 文献检索选项配置对话框
 >  
 >  **打开文献检索选项配置对话框界面如下**
->  [![文献检索选项配置对话框](doc/3.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/3.png)
+>  [![文献检索选项配置对话框](3.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/3.png)
 > 
 >  - Add to Serp API List：打开Serp API密钥（列表）配置对话框
 >  - Add to Research Keys：打开检索关键词（列表）配置对话框，即使用该关键词（列表）进行文献检索
@@ -167,7 +167,7 @@
 >  2. Serp API密钥（列表）配置对话框
 >  
 >  **打开Serp API密钥（列表）配置对话框界面如下**
->  [![Serp API密钥（列表）配置对话框](doc/4.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/4.png)
+>  [![Serp API密钥（列表）配置对话框](4.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/4.png)
 >
 >  输入前述步骤中获得的Serp API密钥，一次一个，不含引号，输入后点击`OK`。
 >
@@ -180,7 +180,7 @@
 > 3. 点击保存，关闭文献检索选项配置对话框
 >  
 >  **点击保存后程序界面如下**
->  [![文献检索选项配置结果输出](doc/2.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/2.png)
+>  [![文献检索选项配置结果输出](2.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/2.png)
 >  
 >  除了Serp API密钥（列表）之外，其他选项内容均会打印在界面上
 >  
@@ -192,7 +192,7 @@
 >  1. 大语言模型选项配置对话框
 >  
 >  **打开大语言模型选项配置对话框界面如下**
->  [![大语言模型选项配置对话框](doc/6.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/6.png)
+>  [![大语言模型选项配置对话框](6.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/6.png)
 > 
 >  - Add to Claude Api Key List：打开Claude API密钥（列表）配置对话框
 >  - Add to OpenAI-compatible API Url List：打开OpenAI格式API的网址（列表）配置对话框
@@ -202,7 +202,7 @@
 >  2. 关闭大语言模型选项配置对话框
 >
 >  **点击保存后程序界面如下**
->  [![大语言模型选项配置结果输出](doc/5.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/5.png)
+>  [![大语言模型选项配置结果输出](5.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/5.png)
 >
 >  上述配置对话框与Serp API密钥（列表）配置对话框操作完全一致
 >
@@ -217,10 +217,10 @@
 >  建议配置后点击`Check LLM Response`检查配置的大语言模型是否能正常访问
 >
 >  **测试通过的示例如下**
->  [![大语言模型连接测试通过](doc/5.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/5.png)
+>  [![大语言模型连接测试通过](5.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/5.png)
 >
 >  **测试失败的示例如下**
->  [![大语言模型连接测试失败](doc/7.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/7.png)
+>  [![大语言模型连接测试失败](7.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/7.png)
 >  根据返回结果检查失败原因并重新配置
 >
 >  测试失败的大语言模型将不会被应用于综述生成过程中
@@ -237,10 +237,10 @@
 >  支持断点续跑，运行中断后重新运行即可
 >
 >  - **未完成文献检索过程的提示如下**
->  - [![未完成文献检索过程](doc/8.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/8.png)
+>  - [![未完成文献检索过程](8.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/8.png)
 >
 >  - **未完成主题生成过程的提示如下**
->  - [![未完成主题生成过程](doc/9.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/9.png)
+>  - [![未完成主题生成过程](9.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/9.png)
 >
 >  - **未完成知识提取过程的提示如下**
->  - [![未完成知识提取过程](doc/10.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/10.png)
+>  - [![未完成知识提取过程](10.png)](https://raw.githubusercontent.com/Invalid-Null/AutomaticReviewGeneration/main/doc/10.png)
