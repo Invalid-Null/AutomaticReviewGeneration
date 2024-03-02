@@ -56,6 +56,12 @@ Pack GUI on Windows:
 pyinstaller -Fw GUI.py -i Icon.png
 ```
 
+# Publication
+
+专利申请已被专利局接收；文章在投。
+
+The patent application has been accepted by the Patent Office; the article is being submitted.
+
 
 # License
 
