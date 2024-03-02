@@ -13,12 +13,16 @@ Automatic Review Generation Method based on Large Language Models
 
 
 [![Python package](https://github.com/Invalid-Null/AutomaticReviewGeneration/actions/workflows/python-package.yml/badge.svg)](https://github.com/Invalid-Null/AutomaticReviewGeneration/actions/workflows/python-package.yml)
-![GitHub License](https://img.shields.io/github/license/Invalid-Null/AutomaticReviewGeneration)
+![GitHub License](https://img.shields.io/github/license/Invalid-Null/AutomaticReviewGeneration?logo=github)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Invalid-Null/AutomaticReviewGeneration/total)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Invalid-Null/AutomaticReviewGeneration)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Invalid-Null/AutomaticReviewGeneration)
-![Support Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+
+
+![Support Platform](https://img.shields.io/badge/GUI%20Platform-Windows-lightgrey.svg)
 ![Language](https://img.shields.io/badge/Language-Python3-yellow.svg)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff) 
+
 
 # Key Requirements
 
